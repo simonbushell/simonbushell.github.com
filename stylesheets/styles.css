@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,500,700);
 
 body {
   padding:50px;
@@ -34,7 +34,7 @@ h3, h4, h5, h6 {
 
 a {
   color:#39c;
-  font-weight:400;
+  font-weight:500;
   text-decoration:none;
 }
 
@@ -93,6 +93,28 @@ th {
 
 img {
   max-width:100%;
+}
+
+/*CSS for profile pic in sidebar*/
+header img {
+  max-width:50%;
+}
+
+article img {
+  max-width:70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#siteTitle {
+  color:#393939;
+  text-decoration:bold;
+}
+
+.postTitle {
+  color:#494949;
+  font-weight:bold;
 }
 
 header {

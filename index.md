@@ -9,3 +9,5 @@ I am a macromolecular crystallographer specialising in the structural characteri
 I am the creator of [RubyPrimer](http://rubyprimer.herokuapp.com]): a web application that enables users to easily design hundreds of site-directed mutagenesis experiments with just a few mouse clicks. I am also the lead developer of DNAnode: an ORM wrapper for related nucleic acid sequences written in Ruby. 
 
 I maintain an occasional [blog](/blog) where I write about structural biology, critical thinking and personal development. 
+
+I can be contacted via [Twitter](http://www.twitter.com/DrSimonBushell) or by email at srbushell at gmail dot com. 

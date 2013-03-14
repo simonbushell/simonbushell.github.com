@@ -4,7 +4,7 @@ layout: layout
 
 <article>
     <h2><a class="postTitle" href='{{page.url}}'>{{ page.title }}</a></h2>
-	<p><span class="postDate">Posted: {{ page.date | date: "%A, %B %d, %Y" }}</span></p>
+    <p class="postDate">{{ page.date | date: "%A, %B %d, %Y"}}<p>
 	<span class= 'post_text'>{{ content }}</span>
 </article>
 

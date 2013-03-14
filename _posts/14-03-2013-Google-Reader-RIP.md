@@ -16,7 +16,7 @@ But with the death of RSS, the web will lose something more important than a sim
 
 This morning I looked through the list of feeds in my Reader account with a feeling of wistful nostalgia. I imported my feeds *en masse* to Google Reader in around 2006 from whatever reader I was using at the time (NetNewsWire maybe?), so many of the feeds I have there predate Google Reader's genesis in 2005. Among the saved [PubMed](www.pubmed.org) searches and [Metafilter](www.metafilter.com) tag feeds is the long-defunct blog of a girl I had a crush on in about 2006. 
 
-She was an incredibly funny writer from the town I grew up in Australia. I devourede her humourous take on the otherwise mundane and eagerly awaited her next post. She would only post occasionally, with her blog standing silent for months at a time: an eternity in the millisecond attention-spans demanded by social media today. She earned a spot in my Reader account to ensure I wouldn't miss a post. 
+She was an incredibly funny writer from the town I grew up in Australia. I devoured her humourous take on the otherwise mundane and eagerly awaited her next post. She would only post occasionally, with her blog standing silent for months at a time: an eternity in the millisecond attention-spans demanded by social media today. She earned a spot in my Reader account to ensure I wouldn't miss a post. 
 
 She was someone who would never hit Buzzfeed or Reddit, yet she had a small and loyal audience. The news about the end of Google Reader, and RSS feeds in general, remind us how different things are today, and how scary the future of blog loyalty appears to be. 
 

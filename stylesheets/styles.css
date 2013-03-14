@@ -95,6 +95,14 @@ img {
   max-width:100%;
 }
 
+.dropShadow {
+ -moz-box-shadow: 3px 3px 4px #999; /* Firefox */
+ -webkit-box-shadow: 3px 3px 4px #999; /* Safari/Chrome */
+ box-shadow: 3px 3px 4px #999; /* Opera and other CSS3 supporting browsers */
+ -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#999999')";/* IE 8 */
+ : progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#999999');/* IE 5.5 - 7 */ 
+}
+
 /*CSS for profile pic in sidebar*/
 header img {
   max-width:60%;
@@ -115,6 +123,12 @@ article img {
 .postTitle {
   color:#494949;
   font-weight:bold;
+}
+
+.postDate {
+  text-transform: uppercase;
+  font-size: 80%;
+  letter-spacing: 2px;
 }
 
 header {

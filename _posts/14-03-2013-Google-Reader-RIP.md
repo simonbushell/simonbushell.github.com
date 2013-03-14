@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The End of Google Reader (and the Internet)
-date: 14-03-2013
 ---
 
 Like many netizens, I awoke this morning to the news that Google will be [shutting down](http://arstechnica.com/information-technology/2013/03/google-announces-readers-imminent-demise/) its Google Reader service from the middle of the year. 

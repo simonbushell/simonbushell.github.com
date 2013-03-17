@@ -1,1 +1,4 @@
+name: Simon Bushell - Blog 
+description: Simon Bushell Blog
+url: http://simonbushell.github.com
 permalink: /blog/:categories/:year/:month/:day/:title.html

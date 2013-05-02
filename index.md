@@ -8,7 +8,7 @@ I am a macromolecular crystallographer specialising in the structural characteri
 
 I currently work as a Postdoctoral Research Scientist at the [Structural Genomics Consortium](http://www.thesgc.org) at the University of Oxford. Before that, I was a Research Fellow at the [Biomedical Sciences Research Complex](http://www.st-andrews.ac.uk/bsrc/) at the University of St Andrews. 
 
-I am the creator of [RubyPrimer](http://rubyprimer.herokuapp.com]): a web application that enables users to easily design hundreds of site-directed mutagenesis experiments with just a few mouse clicks. I am also the lead developer of DNAnode: an ORM wrapper for related nucleic acid sequences written in Ruby. 
+I am the creator of [RubyPrimer](http://rubyprimer.herokuapp.com): a web application that enables users to easily design hundreds of site-directed mutagenesis experiments with just a few mouse clicks. I am also the lead developer of DNAnode: an ORM wrapper for related nucleic acid sequences written in Ruby. 
 
 I maintain an occasional [blog](/blog) where I write about structural biology, critical thinking and personal development. 
 

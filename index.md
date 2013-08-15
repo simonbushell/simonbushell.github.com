@@ -12,4 +12,4 @@ I am the creator of [RubyPrimer](http://rubyprimer.herokuapp.com): a web applica
 
 I maintain an occasional [blog](/blog) where I write about structural biology, critical thinking and personal development. 
 
-I can be contacted via [Twitter](http://www.twitter.com/DrSimonBushell) or by email at srbushell at gmail dot com. 
+I can be contacted via [Twitter](http://www.twitter.com/DrSimonBushell) or by email at srbushell at gmail dot com ([PGP Key](/srbushell_public_key.txt))

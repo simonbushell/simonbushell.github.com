@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Open Letter to Buzzfeed Creationist &#35;4
+title: An Open Letter to Buzzfeed Creationist Number 4
 ---
 
 ![](/images/creationistpic.jpg) 

@@ -10,7 +10,7 @@ Hi Buzzfeed Creationist #4,
 
 I bet its been a crazy 24 hours for you! Not only were you one of the lucky scamps who got to see Ken Ham and Bill Nye duke it out in their creationism vs evolution debate, but you also appear to be popping up all over the interwebs thanks to a recent Buzzfeed post called [22 Messages From Creationists To People Who Believe In Evolution](http://www.buzzfeed.com/mjs538/messages-from-creationists-to-people-who-believe-in-evolutio). 
 
-Let me introduce myself. My name is Simon, and I am a scientist. I also 'believe' in evolution: insofar as I agree that the balance of evidence overwhelmingly suggests that species are not immutable and that natural selection will favour the spread of adventageous genetic traits thorughout a population leading to their change over time. By extension this also means that I 'believe' that life arose on this planet from non-biological chemical origins. 
+Let me introduce myself. My name is Simon, and I am a scientist. I also 'believe' in evolution: insofar as I agree that the balance of evidence overwhelmingly suggests that species are not immutable and that natural selection will favour the spread of adventageous genetic traits throughout a population, leading to their change over time. By extension, this also means that I 'believe' that life arose on this planet from non-biological chemical origins. 
 
 In my spare time I do a lot of public engagement work and science advocacy. It is because of my passion for science and critical thinking that I am writing to you. I am also Australian, so I kinda sound a bit like Ken Ham too. 
 
